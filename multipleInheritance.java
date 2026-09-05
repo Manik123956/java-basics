@@ -28,8 +28,7 @@ class C implements A, B {
     }
 
     void addition() {
-        System.out.println("Sum of " + i + "," + j + "," + k + "," + l
-                + " and " + m + " is : " + (i + j + k + l + m));
+        System.out.println("Sum of " + i + "," + j + "," + k + "," + l + " and " + m + " is : " + (i + j + k + l + m));
     }
 }
 
