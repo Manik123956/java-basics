@@ -9,7 +9,7 @@ class dog extends animal{
 }
 
 public class Super{
-    public static void main(){
+    public static void main(String[] args){
         dog A = new dog();
         A.display();
     }
